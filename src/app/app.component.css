@@ -1,0 +1,10 @@
+nav{
+  color:white;
+}
+.btn{
+  display: inline;
+}
+.form-control{
+  display: inline;
+  width: 50%;
+}
